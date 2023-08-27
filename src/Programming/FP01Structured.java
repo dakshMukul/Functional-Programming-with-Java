@@ -11,14 +11,14 @@ public class FP01Structured {
     }
 
     private static void printAllNumbersInList(List<Integer> numbers) {
-        // how to loop the numbers?
+        //focusing on what to do and how to do?
         for (int i : numbers) {
             System.out.println(i);
         }
     }
 
     private static void printEvenNumbersInList(List<Integer> numbers) {
-        // how to loop the numbers?
+        // focusing on what to do and how to do?
         for (int i : numbers) {
             if (i % 2 == 0) {
                 System.out.println(i);
